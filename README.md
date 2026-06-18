@@ -1,4 +1,4 @@
-# Java Streams — Projeto de Estudo
+# Java Streams 
 
 > *"Streams não são coleções. São pipelines de processamento de dados."*
 
